@@ -1,0 +1,12 @@
+.footer {
+	background-color: #580f0f !important;
+	color: white;
+}
+
+.bg-light {
+    background-color: #580f0f !important;
+}
+.card-img-overlay {
+	justify-content: center;
+	text-align: center;
+}

@@ -1,0 +1,14 @@
+.carousel-item {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 800px;
+
+}
+
+.footer {
+    background-color: #26267e;
+    color: white;
+    padding: 4rem, 4rem;}
